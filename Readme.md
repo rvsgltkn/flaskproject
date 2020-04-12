@@ -14,4 +14,5 @@
 ### to run test cases
 - python manage.py test
 
-
+### heroku deployment url info
+- https://flask-project-heroku.herokuapp.com/
